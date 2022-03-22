@@ -69,7 +69,7 @@ app.post(baseURL, async (req, res)=>{
 });
 
 /**
- * Delete form request, method POST 
+ * Delete form request, method DELETE 
  */
 app.delete(baseURL, async (req, res) => {
 
